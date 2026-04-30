@@ -1,0 +1,2 @@
+timestamp,board,method,W,n_chunks,bytes_in,bytes_out,compression_ratio,encode_us_mean,encode_us_p95,decode_us_mean,decode_us_p95,ram_bytes,flash_bytes,status,notes
+1777385298.3059704,esp32,tflite_micro_encoder_int8,16,128,53248,1040,51.200001,1735.04,1780,0,0,98304,18904,ok,energy_status=not_measured_proxy_only;encoder_only=true;tensor_arena_bytes=98304

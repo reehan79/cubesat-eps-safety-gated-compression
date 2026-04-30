@@ -1,0 +1,38 @@
+# T5 reproducibility environment snapshot
+# generated_at_utc=2026-04-27T17:07:45Z
+
+## OS
+platform=Linux-5.15.0-139-generic-x86_64-with-glibc2.31
+system=Linux
+release=5.15.0-139-generic
+machine=x86_64
+
+## Python
+3.13.11 | packaged by Anaconda, Inc. | (main, Dec 10 2025, 21:28:48) [GCC 14.3.0]
+executable=/home/ubuntu/work/pubfactory_v3/01_official_repos/official_T5_edgeai_compression/.venv/bin/python
+
+## pip freeze
+bitarray==3.8.1
+contourpy==1.3.3
+cycler==0.12.1
+et_xmlfile==2.0.0
+fonttools==4.62.1
+joblib==1.5.3
+kiwisolver==1.5.0
+lz4==4.4.5
+matplotlib==3.10.9
+numpy==2.4.4
+openpyxl==3.1.5
+packaging==26.2
+pandas==3.0.2
+pillow==12.2.0
+pyarrow==24.0.0
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+PyYAML==6.0.3
+scikit-learn==1.8.0
+scipy==1.17.1
+six==1.17.0
+threadpoolctl==3.6.0
+tqdm==4.67.3
+zstandard==0.25.0

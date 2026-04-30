@@ -1,0 +1,14 @@
+channel,reason
+tpy_c,engineering_unit
+tpx_c,engineering_unit
+tmz_c,engineering_unit
+tmx_c,engineering_unit
+tpz_c,engineering_unit
+ipy_ma,engineering_unit
+ipx_ma,engineering_unit
+imz_ma,engineering_unit
+imx_ma,engineering_unit
+ipz_ma,engineering_unit
+vbat_v,engineering_unit
+ibatt_ma,engineering_unit
+tbatt_c,engineering_unit

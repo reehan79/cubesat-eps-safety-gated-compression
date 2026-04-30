@@ -1,0 +1,15 @@
+group_dim,group_value,safe_pass,count
+result_type,learned_compression,false,149
+result_type,learned_compression_all_numeric_stress_test,false,143
+result_type,lossless_baseline,true,32
+method,ccsds124_proxy_delta_rice,true,4
+method,delta_int16,true,4
+method,delta_rice,true,4
+method,fc_ae,false,99
+method,lz4,true,4
+method,raw,true,4
+method,tcn_ae,false,95
+method,weighted_fc_ae,false,98
+method,zstd_level_1,true,4
+method,zstd_level_3,true,4
+method,zstd_level_9,true,4

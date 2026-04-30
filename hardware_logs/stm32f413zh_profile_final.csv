@@ -1,0 +1,4 @@
+timestamp,board,method,W,n_chunks,bytes_in,bytes_out,compression_ratio,encode_us_mean,encode_us_p95,decode_us_mean,decode_us_p95,ram_bytes,flash_bytes,status,notes
+1777487917.317232,stm32f413zh,raw_copy,16,128,53248,53248,1.000000,132.133,132.141,125.000,125.008,12528,0,ok,energy_status=not_measured_proxy_only;timer=dwt;checksum=228532060;normalized_from_total_to_per_chunk=true
+1777487919.1218774,stm32f413zh,delta_int16,16,128,53248,53248,1.000000,167.000,167.000,144.141,144.156,12528,0,ok,energy_status=not_measured_proxy_only;timer=dwt;checksum=457064120;normalized_from_total_to_per_chunk=true
+1777487921.508127,stm32f413zh,simple_predictor_pack,16,128,53248,51525,1.033440,246.961,247.023,197.797,197.883,12528,0,ok,energy_status=not_measured_proxy_only;timer=dwt;checksum=685596180;normalized_from_total_to_per_chunk=true

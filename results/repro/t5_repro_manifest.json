@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-04-27T17:07:45Z",
+  "git": {
+    "branch": "t5-edge-ai-compression-results",
+    "commit": "5373ab992c89f6d46f9c41aecf4e1d1353955994",
+    "toplevel": "/home/ubuntu/work/pubfactory_v3"
+  },
+  "python": {
+    "version": "3.13.11 | packaged by Anaconda, Inc. | (main, Dec 10 2025, 21:28:48) [GCC 14.3.0]",
+    "executable": "/home/ubuntu/work/pubfactory_v3/01_official_repos/official_T5_edgeai_compression/.venv/bin/python"
+  },
+  "platform": {
+    "platform": "Linux-5.15.0-139-generic-x86_64-with-glibc2.31",
+    "system": "Linux",
+    "release": "5.15.0-139-generic",
+    "machine": "x86_64"
+  },
+  "pip_freeze": {
+    "ok": true,
+    "error": null
+  },
+  "all_required_present": true,
+  "artifacts": [
+    {
+      "path": "results/tables/t5_main_results.csv",
+      "present": true,
+      "sha256": "dca72f3a75b7dfd75136fbcb3e5eb8d2bac134e89af8c63ef1578f6993ca7a48",
+      "required": true
+    },
+    {
+      "path": "results/tables/t5_method_ranking.csv",
+      "present": true,
+      "sha256": "f9ebf9c8dd3fd4afaa4ec5ff66079c7f4cf5ad4d9f9aa9157e27d76701d1945a",
+      "required": true
+    },
+    {
+      "path": "results/tables/t5_safety_dashboard.csv",
+      "present": true,
+      "sha256": "f6c321f5117e59305d3141fb8e48241c7098007ceb289016415e089fce3848d4",
+      "required": true
+    },
+    {
+      "path": "results/paper_exports/t5_claims_supported_by_results.md",
+      "present": true,
+      "sha256": "f83cdb48ef1876ec5ca0e97b8dc156239643dc8009485c19c2e0989d2a871b2c",
+      "required": true
+    },
+    {
+      "path": "results/plots/fig2_cr_error_latency_frontier.pdf",
+      "present": true,
+      "sha256": "2e992d22ec2130f31714b9068cb56adab6acd910e89c4988646ad60d91a68f79",
+      "required": true
+    },
+    {
+      "path": "results/plots/fig3_safety_dashboard.pdf",
+      "present": true,
+      "sha256": "d9c651bc1f4c8367a41d4a4be5be912e53fa602c088202d3c8d947b5cf6c71ab",
+      "required": true
+    },
+    {
+      "path": "results/plots/fig4_method_ranking.pdf",
+      "present": true,
+      "sha256": "db23744c71542d3019c537153beb9d93a068f407e3582e53a615892155e0fb20",
+      "required": true
+    },
+    {
+      "path": "results/plots/fig5_safety_thresholds_by_channel.pdf",
+      "present": true,
+      "sha256": "3e6bbe248af0cd4b41e8172a3280307e2b4fb4ab975b105afef3dfde8041350e",
+      "required": true
+    },
+    {
+      "path": "results/plots/fig6_edge_profile.pdf",
+      "present": true,
+      "sha256": "2c064853541a32e0436c6bde87b2f37dcd7f13f73977861cd6c8feb9d90d9845",
+      "required": true
+    },
+    {
+      "path": "results/tables/t5_safety_thresholds.csv",
+      "present": true,
+      "sha256": "cd7dd262f398c0bdad12857964bab114d6715dddaa931e3aad2e244edbf3916c",
+      "required": false
+    },
+    {
+      "path": "results/tables/t5_embedded_profile.csv",
+      "present": true,
+      "sha256": "4a32780356d5f77d0c9ca41d0f94ec06253487ad5441ee7713c3ea76af51dbd9",
+      "required": false
+    }
+  ],
+  "shared_ai": [
+    {
+      "path": "/home/ubuntu/drive_1/pubfactory_shared/runs/t5_edgeai/tables/t5_ai_results_full_eps.csv",
+      "present": true,
+      "sha256": "f7f84528bdbc1935da710f748e31c570fa7de5f6ef75c1362318a565697bc6da",
+      "required": false
+    },
+    {
+      "path": "/home/ubuntu/drive_1/pubfactory_shared/runs/t5_edgeai/tables/t5_ai_results_full.csv",
+      "present": true,
+      "sha256": "43f24a7a1448a493d67257a5d8852a5a435de813463707920646734b88ada35c",
+      "required": false
+    },
+    {
+      "path": "/home/ubuntu/drive_1/pubfactory_shared/runs/t5_edgeai/tables/t5_ai_results_quick.csv",
+      "present": true,
+      "sha256": "af79dee98d1f061e1844e94e174818614a9c49882b027cab25d39fa8c55aad52",
+      "required": false
+    }
+  ]
+}

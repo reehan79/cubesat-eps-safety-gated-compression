@@ -1,0 +1,5 @@
+satellite,rows,numeric_channel_count,missing_fraction_numeric,timestamp_available,ordering_rule
+NEPALISAT,3040,13,0.0,True,timestamp_then_file_row_order
+RAAVANA,2159,13,0.0,True,timestamp_then_file_row_order
+TSURU,25653,13,0.0,True,timestamp_then_file_row_order
+UGUISU,3270,13,0.0,True,timestamp_then_file_row_order

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Reproducibility Artifacts for Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry"
+message: "If you use this repository, please cite it using this metadata."
+authors:
+  - family-names: Mahmood
+    given-names: Rehan
+  - family-names: Zulfiqar
+    given-names: Maheen
+  - family-names: Akhlaq
+    given-names: Muhammad Nofal Bin
+version: 1.0.0
+date-released: 2026-04-30
+repository-code: "https://github.com/reehan79/cubesat-eps-safety-gated-compression"
