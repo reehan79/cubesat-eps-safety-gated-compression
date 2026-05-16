@@ -1,4 +1,5 @@
 The code, result tables, firmware profiling artifacts, hardware logs, plotting scripts, and reproducibility manifests associated with this study are available in a public repository:
 https://github.com/reehan79/cubesat-eps-safety-gated-compression
 
-A versioned GitHub release and Zenodo DOI will be used for archival citation of the reproducibility artifacts.
+Archived reproducibility release:
+https://doi.org/10.5281/zenodo.19929577

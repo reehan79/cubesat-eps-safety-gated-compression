@@ -11,3 +11,6 @@ Preprint of manuscript submitted to IEEE Transactions on Aerospace and Electroni
 
 Repository:
 https://github.com/reehan79/cubesat-eps-safety-gated-compression
+
+Archived reproducibility release:
+https://doi.org/10.5281/zenodo.19929577

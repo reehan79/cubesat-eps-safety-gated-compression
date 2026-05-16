@@ -1,5 +1,7 @@
 # Reproducibility Artifacts for Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19929577.svg)](https://doi.org/10.5281/zenodo.19929577)
+
 **Manuscript title:** Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry
 
 **Authors:** Rehan Mahmood, Maheen Zulfiqar, Muhammad Nofal Bin Akhlaq
@@ -45,4 +47,17 @@ python scripts/build_t5_paper_figures.py
 
 See `CITATION.cff` for citation metadata.
 
-If using this repository, please cite the SSRN preprint and the Zenodo DOI once available.
+If using this repository, please cite the archived Zenodo release:
+
+Mahmood, R., Zulfiqar, M., & Bin Akhlaq, M. N. (2026). Reproducibility Artifacts for Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19929577
+
+```bibtex
+@software{mahmood2026cubesat_eps_safety_gated_compression_artifacts,
+  author  = {Mahmood, Rehan and Zulfiqar, Maheen and Bin Akhlaq, Muhammad Nofal},
+  title   = {Reproducibility Artifacts for Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry},
+  year    = {2026},
+  version = {v1.0.0},
+  doi     = {10.5281/zenodo.19929577},
+  url     = {https://github.com/reehan79/cubesat-eps-safety-gated-compression}
+}
+```
