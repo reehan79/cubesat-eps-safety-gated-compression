@@ -1,0 +1,9 @@
+=== T5 Repro Verification ===
+Tables directory: /home/ubuntu/work/cubesat-eps-safety-gated-compression/results/tables
+Optional t5_stress_test_results.csv: present
+
+PASS
+- All required CSV files exist
+- Safety dashboard counts match expected values
+- Embedded profile has required board rows including ESP32 TFLM
+- No rows claim measured energy

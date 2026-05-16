@@ -1,0 +1,1 @@
+CubeSat telemetry; telemetry compression; edge AI; safety-gated evaluation; EPS telemetry; embedded systems; TinyML; STM32; ESP32; Raspberry Pi; spacecraft health monitoring; anomaly masking; learned compression; reproducibility

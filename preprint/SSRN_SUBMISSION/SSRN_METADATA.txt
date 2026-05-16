@@ -1,0 +1,13 @@
+Title:
+Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry
+
+Authors:
+Rehan Mahmood
+Maheen Zulfiqar
+Muhammad Nofal Bin Akhlaq
+
+Status:
+Preprint of manuscript submitted to IEEE Transactions on Aerospace and Electronic Systems.
+
+Repository:
+https://github.com/reehan79/cubesat-eps-safety-gated-compression

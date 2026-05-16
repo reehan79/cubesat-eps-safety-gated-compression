@@ -1,0 +1,35 @@
+Title:
+Reproducibility Artifacts for Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry
+
+Upload type:
+Software / Dataset / Research software
+
+Creators:
+Rehan Mahmood
+Maheen Zulfiqar
+Muhammad Nofal Bin Akhlaq
+
+Description:
+This archive contains reproducibility artifacts for the manuscript “Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry,” submitted to IEEE Transactions on Aerospace and Electronic Systems. It includes result tables, plotting scripts, firmware profiling artifacts, hardware logs, and reproducibility manifests supporting safety-gated evaluation of CubeSat Electrical Power System telemetry compression and cross-platform embedded profiling on Raspberry Pi 4, ESP32, and STM32 boards.
+
+Keywords:
+CubeSat telemetry
+telemetry compression
+edge AI
+embedded systems
+EPS telemetry
+safety gating
+TinyML
+STM32
+ESP32
+Raspberry Pi
+reproducibility
+
+License:
+MIT for code. Dataset and third-party materials retain their original licenses.
+
+Version:
+v1.0.0
+
+Related identifiers:
+GitHub repository: https://github.com/reehan79/cubesat-eps-safety-gated-compression

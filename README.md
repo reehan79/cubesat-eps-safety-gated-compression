@@ -1,8 +1,12 @@
 # Reproducibility Artifacts for Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry
 
+**Manuscript title:** Safety-Gated Edge-AI Compression for Bandwidth-Limited CubeSat EPS Telemetry
+
 **Authors:** Rehan Mahmood, Maheen Zulfiqar, Muhammad Nofal Bin Akhlaq
 
-This repository provides the public reproducibility package for the IEEE Access paper on safety-gated telemetry compression for CubeSat EPS channels. It includes final result tables, generated paper figures, verification scripts, hardware profiling logs, and public-safe firmware profiling code.
+This repository provides the public reproducibility package for a safety-gated Edge-AI compression benchmark for CubeSat Electrical Power System (EPS) telemetry using BIRDS on-orbit data. Instead of ranking methods only by compression ratio, each lossy model is screened using worst-case per-channel reconstruction-error gates derived from training data. The package includes final result tables, generated paper figures, verification scripts, hardware profiling logs, and public-safe firmware profiling code for Raspberry Pi 4, ESP32, and STM32 targets.
+
+This repository supports the manuscript submitted to IEEE Transactions on Aerospace and Electronic Systems.
 
 ## Repository Structure
 
@@ -40,3 +44,5 @@ python scripts/build_t5_paper_figures.py
 ## Citation
 
 See `CITATION.cff` for citation metadata.
+
+If using this repository, please cite the SSRN preprint and the Zenodo DOI once available.
